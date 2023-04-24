@@ -91,7 +91,7 @@ header h2 {
 main {
     width: 60%;
     margin: 0 auto;
-    /*border: 2px solid black;*/
+    /*border: 2px solid ;*/
 }
 
 .puppy {
@@ -142,7 +142,7 @@ footer p {
 	font-size: 1.8em;
 	font-family: 'Crimson Pro', serif;
     background-color: #E4F2EA;
-    text-decoration-color: black;
+    
 }
 
 #container img{
