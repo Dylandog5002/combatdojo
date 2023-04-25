@@ -183,6 +183,13 @@ footer p {
   top: 300px;
 }
 
+#btn4{
+top: 400px;
+}
+#btn5{
+top: 500px;
+}
+
 div.button {
   background-color: #ffffff;
   color: #2c3e50;
