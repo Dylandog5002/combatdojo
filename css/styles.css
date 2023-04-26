@@ -262,3 +262,14 @@ div.button:active {
   .grid img {
 	width: 100%;
   }
+
+/* Style rule for social div */
+#social {
+	float: right;
+	width: 20%;
+}
+
+/*Style rule for social media icons */
+#social img {
+	padding: 0.5em;
+}
