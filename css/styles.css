@@ -68,7 +68,7 @@ header h2 {
   
   .hNav ul {
       display: block;
-      padding-left: 150px;
+      padding-left: 200px;
   }
   
   .hNav ul li {
@@ -84,7 +84,7 @@ header h2 {
   }
   
   .hNav a:hover {
-      color: #734F2F;
+      color: blue;
       text-decoration: underline;
   }
 
