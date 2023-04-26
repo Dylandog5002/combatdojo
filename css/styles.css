@@ -252,3 +252,13 @@ div.button:active {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+  }
+  
+  .grid img {
+	width: 100%;
+  }
